@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.me-auto.btn1
+{
+  color: brown;
+  font-size: xx-large;
+}
+#title
+{
+  margin-left: 10px;
+}
+#cont
+{
+  margin-left: 10px;
+  font-size: xx-large;
+}
+#btn3
+{
+  color: blue;
+  width: 100px;
+  
+  border-radius: 10px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+}
+.d-flex
+{
+  margin-right: 100px;
+}
+#drop
+{
+  margin-right: 90px;
+}
