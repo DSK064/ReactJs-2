@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+#app
+{
+  text-align: center;
+}
+.bar
+{
+  position: relative;
+  font-size: larger;
+  font-weight: bolder;
+  height:50px;
+  width: 200px;
+  background-color: antiquewhite;
+
+}
+#navBar
+{
+  height: 50px;
+  background-color: black;
+}
