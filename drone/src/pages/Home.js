@@ -7,9 +7,7 @@ export const Home=()=>
             </div>
             <div>
                 <h2>Evolution</h2>
-                <a href="https://www.youtube.com/watch?v=8_OVQfo63Rw">Video link</a>
-                {/* <video width="320" height="240" controls="contorls" src="https://www.youtube.com/watch?v=8_OVQfo63Rw" type="video/mp4">
-                </video> */}
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/8_OVQfo63Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
             </div>
         </div>
