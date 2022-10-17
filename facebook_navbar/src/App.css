@@ -1,0 +1,190 @@
+.App {
+  text-align: center;
+  height: 200px;
+}
+
+
+#logo
+{
+  margin-left: 10px;
+  margin-top: 20px;
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+}
+#search
+{
+  margin-left: 50px;
+  margin-top: 30px;
+  text-align: center;
+  height: 30px;
+  width: 250px;
+  border-radius: 10px;
+  border-top: 0px;
+  border-left: 0ch;
+  border-bottom: 0ch;
+  border-right: 0ch;
+}
+
+#navBar
+{
+  display: flex;
+  background-color:rgb(204, 218, 230);
+  height:70px;
+  border-radius: 10px;
+  padding-bottom: 10px;
+}
+#btn1
+{
+  margin-top: 20px;
+  margin-left: 200px;
+  height: 50px;
+  width: 100px;
+  font-size: x-large;
+  color:rgb(20, 220, 73);
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 20px;
+}
+#btn2
+{
+  margin-top: 20px;
+  margin-left: 50px;
+  height: 50px;
+  width:100px;
+  font-size: x-large;
+  color:rgb(20, 220, 73);
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 20px;
+  
+}
+#btn3
+{
+  margin-top: 20px;
+  margin-left: 50px;
+  height: 50px;
+  width:100px;
+  font-size: x-large;
+  color:rgb(20, 220, 73);
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 20px;
+  
+}
+#btn4
+{
+  margin-top: 20px;
+  margin-left: 50px;
+  height: 50px;
+  width:100px;
+  font-size: x-large;
+  color:rgb(20, 220, 73);
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 20px;
+}
+#btn5
+{
+  margin-top: 20px;
+  margin-left: 200px;
+  height: 50px;
+  width: 100px;
+  font-size: x-large;
+  color:rgb(20, 220, 73);
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 20px;
+}
+#btn7
+{
+  margin-left: 60px;
+  height: 50px;
+  width: 100px;
+  background-color: rgb(194, 173, 173);
+  font-size: x-large;
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 20px;
+}
+#btn6
+{
+  margin-top: 20px;
+  height: 50px;
+  width: 100px;
+  font-size: x-large;
+  border-top: 0px;
+  border-left: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-radius: 20px;
+}
+
+#btn7:hover{
+  background-color: rgb(219, 28, 28);
+}
+#btn1:hover{
+  background-color: rgb(220,220,220);
+}
+
+#btn2:hover{
+  background-color: rgb(220,220,220);
+}
+
+#btn3:hover{
+  background-color: rgb(220,220,220);
+}
+#btn4:hover{
+  background-color: rgb(220,220,220);
+}
+
+#btn5:hover{
+  background-color: rgb(23, 124, 225);
+}
+#btn6:hover{
+  background-color: rgb(23, 225, 36);
+}
+#footerBackground
+{
+  margin-top: 100px;
+  background-color: rgb(66, 66, 230);
+  height: 65px;
+}
+#footer
+{
+  margin-top: 300px;
+}
+
+#pic1
+{
+  
+  height: 500px;
+  width: 300px;
+}
+#pic2
+{
+  height: 500px;
+  width: 300px;
+}
+#pic3
+{
+  height: 500px;
+  width: 300px;
+}
+#pic4
+{
+  height: 500px;
+  width: 300px;
+}
